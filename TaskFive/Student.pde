@@ -14,6 +14,6 @@ class Student {
   }
   //Getter name
   String getName() {
-    return name+datamatikerTeam;
+    return name;
   }
 }
